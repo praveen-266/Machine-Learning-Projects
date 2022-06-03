@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/71770999/171919053-14cf9007-f532-492d-8a03-04eedf04a305.png)
+
 # Goal             
 <!--  -->         
 This goal of this project is to predict the revenue of movie based on the dataset provided.             
@@ -26,5 +28,4 @@ Evaluation metrics:Negative Root Mean Squared Error(NRMSE)
 * **Random Forest - -82277929.551**
 * Ada Boost - -116138705.846
 # Model Prediction         
-# Prodiction 1
 ![image](https://user-images.githubusercontent.com/71770999/171918710-d3d1e1c9-1be0-4df6-9125-8799afee4cbf.png)
