@@ -30,5 +30,6 @@
 * Adaptive Boosting (AdaBoost)      
 * Voting(Hard/Soft)         
           
-**Do ![image](https://user-images.githubusercontent.com/71770999/171427648-55ed175b-db55-4011-a838-19fc336c509b.png) the repository,if it helped you in anyway.**
+          
+* Do ⭐ the repository,if it helped you in anyway.**
 
