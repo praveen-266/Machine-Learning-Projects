@@ -31,5 +31,5 @@
 * Voting(Hard/Soft)         
           
           
-* Do ⭐ the repository,if it helped you in anyway.**
+ **Do ⭐ the repository,if it helped you in anyway.**
 
