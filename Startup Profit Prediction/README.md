@@ -1,5 +1,5 @@
 # Project Overview    
-* Created a machine learning model that **estimates profit of startup companies on the features like R&D , Marketing , etc..         
+* Created a machine learning model that **estimates profit of startup companies on the features like R&D , Marketing , etc.. **       
 
 ## How will this Project help?         
 * This project helps ** stratup companies, in which department to invest their money to get profit**       
