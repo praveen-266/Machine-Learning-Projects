@@ -12,6 +12,8 @@ This '9b2d5b4678781e53038e91ea5324530a03f27dc1d0e5f6c9bc9d493a23be9de0' represen
 ### Steps should be:
 Data Cleaning ( including Feature Selection)            
 Training ( on Y percent of data)         
-Testing ( on (100-Y) percent of data)               
+Testing ( on (100-Y) percent of data)        
+### Evaluation metric: 
+
 Evaluate the performance using metrics such as accuracy, precision, recall and F1-score.
 
