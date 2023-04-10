@@ -10,8 +10,8 @@ Here you have a dataset of leads with their set of features and their status. Yo
 This '9b2d5b4678781e53038e91ea5324530a03f27dc1d0e5f6c9bc9d493a23be9de0' represents NaN and could be present in more than one column.
 
 ### Steps should be:
-Data Cleaning ( including Feature Selection)
-Training ( on Y percent of data)
-Testing ( on (100-Y) percent of data)
+Data Cleaning ( including Feature Selection)            
+Training ( on Y percent of data)         
+Testing ( on (100-Y) percent of data)               
 Evaluate the performance using metrics such as accuracy, precision, recall and F1-score.
 
